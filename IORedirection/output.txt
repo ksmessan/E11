@@ -1,0 +1,17 @@
+total 64
+-rw-rw-r-- 1 kali kali  69 Feb 18 09:28 error.log
+-rw-rw-r-- 1 kali kali  50 Feb 18 09:21 file.txt
+-rw-rw-r-- 1 kali kali  24 Feb 18 09:23 input.txt
+-rwx--x--x 1 kali kali 114 Feb 18 09:32 IRedirection.sh
+-rw-rw-r-- 1 kali kali  32 Feb 18 09:29 log.txt
+-rw-rw-r-- 1 kali kali   2 Feb 18 09:32 nums.txt
+-rwx--x--x 1 kali kali  23 Feb 18 09:33 OPRedirect.sh
+-rw-rw-r-- 1 kali kali  24 Feb 18 09:23 output.txt
+-rwx--x--x 1 kali kali  28 Feb 18 09:23 RedirectCatIO.sh
+-rwx--x--x 1 kali kali  16 Feb 18 09:22 RedirectCat.sh
+-rwx--x--x 1 kali kali  20 Feb 18 09:31 RedirectCmnd.sh
+-rwx--x--x 1 kali kali  16 Feb 18 09:28 RedirectDateOP.sh
+-rwx--x--x 1 kali kali  50 Feb 18 09:29 RedirectEcho.sh
+-rwx--x--x 1 kali kali  39 Feb 18 09:28 RedirectError.sh
+-rwx--x--x 1 kali kali  14 Feb 18 09:20 RedirectLS.sh
+-rw-rw-r-- 1 kali kali  23 Feb 18 09:21 test.txt
